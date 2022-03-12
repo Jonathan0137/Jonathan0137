@@ -2,7 +2,7 @@
 
 - ⚙️ Software Developer Intern @ [Veeva Systems](https://www.veeva.com/) on the Vault RIM Submission Archive team
 - 📚 I am currenty a student at Uoft
-- 👨‍🏫 I have a passion in Computer Science and is always willing to learn new things!
+- 📋 I have a passion in Computer Science and is always willing to learn new things!
 
 
 ### 📝 Recent Roles
