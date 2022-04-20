@@ -7,8 +7,8 @@
 
 ### 📝 Recent Roles
 
-* [Software Developer Intern - Veeva Systems](https://www.veeva.com/) - Fall 2021/Winter 2022/Summer 2022
-* [Automation Developer Intern - Fleet Complete](https://www.fleetcomplete.com/) - Winter 2020/ Summer 2020
+* [Software Developer Intern - Veeva Systems](https://www.veeva.com/) - Fall 2021 & Winter 2022 & Summer 2022
+* [Automation Developer Intern - Fleet Complete](https://www.fleetcomplete.com/) - Winter 2020 & Summer 2020
 
 
 I'm always open to new opportunities! Feel free to learn more about me at: https://jonathan0137.github.io/
